@@ -30,7 +30,6 @@
       "id": "2",
       "title": "Event Title 2",
       "ideaTitle": "IdeaTitle 2",
-      "subCategory": "Sub category Title 2",
       "ideaDescription": "A radio group is used with its fields visually hidden. It contains six radio buttons, one for each star and anotherfor 0 stars, which is checked by default.",
       "isSubcategory": false,
       "file": [
