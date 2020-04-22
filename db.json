@@ -7,7 +7,16 @@
       "subCategory": "Sub category Title 1",
       "ideaDescription": "A radio group is used with its fields visually hidden. It contains six radio buttons, one for each star and anotherfor 0 stars, which is checked by default.",
       "isSubcategory": true,
-      "file": "pic1.jpg",
+      "file": [
+        {
+          "id": "1",
+          "Link": "https://www.shutterstock.com/image-photo/competition-forest-trees-sunlight-necessary-sustain-1186179847"
+        },
+        {
+          "id": "2",
+          "Link": "https://www.shutterstock.com/image-photo/footpath-deciduous-forest-376094821"
+        }
+      ],
       "subcategory": [
         {
           "id": "1",
@@ -27,7 +36,12 @@
       "ideaTitle": "IdeaTitle 2",
       "ideaDescription": "A radio group is used with its fields visually hidden. It contains six radio buttons, one for each star and anotherfor 0 stars, which is checked by default.",
       "isSubcategory": false,
-      "file": "pic2.jpg"
+      "file": [
+        {
+          "id": "1",
+          "Link": "https://www.shutterstock.com/image-photo/competition-forest-trees-sunlight-necessary-sustain-1186179847"
+        }
+      ]
     }
   ],
   "profile": {
