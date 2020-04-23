@@ -7,6 +7,20 @@
       "subCategory": "Sub category Title 1",
       "ideaDescription": "A radio group is used with its fields visually hidden. It contains six radio buttons, one for each star and anotherfor 0 stars, which is checked by default.",
       "isSubcategory": true,
+      "images": [
+        {
+          "id": "1",
+          "Link": "https://images.unsplash.com/photo-1538032746644-0212e812a9e7?auto=format&fit=crop&w=400&h=250&q=60"
+        },
+        {
+          "id": "2",
+          "Link": "https://images.unsplash.com/photo-1518732714860-b62714ce0c59?auto=format&fit=crop&w=400&h=250&q=60"
+        },
+        {
+          "id": "2",
+          "Link": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=400&h=250&q=80"
+        }
+      ],
       "file": [
         {
           "id": "1",
@@ -16,18 +30,6 @@
           "id": "2",
           "Link": "https://www.shutterstock.com/image-photo/footpath-deciduous-forest-376094821"
         }
-      ],
-      "subcategory": [
-        {
-          "id": "1",
-          "title": "Sub category Title 1",
-          "description": "Description of sub category 1 appears here"
-        },
-        {
-          "id": "2",
-          "title": "Sub category Title 2",
-          "description": "Description of sub category 2 appears here"
-        }
       ]
     },
     {
@@ -36,6 +38,16 @@
       "ideaTitle": "IdeaTitle 2",
       "ideaDescription": "A radio group is used with its fields visually hidden. It contains six radio buttons, one for each star and anotherfor 0 stars, which is checked by default.",
       "isSubcategory": false,
+      "images": [
+        {
+          "id": "1",
+          "Link": "https://images.unsplash.com/photo-1538032746644-0212e812a9e7?auto=format&fit=crop&w=400&h=250&q=60"
+        },
+        {
+          "id": "2",
+          "Link": "https://images.unsplash.com/photo-1518732714860-b62714ce0c59?auto=format&fit=crop&w=400&h=250&q=60"
+        }
+      ],
       "file": [
         {
           "id": "1",
